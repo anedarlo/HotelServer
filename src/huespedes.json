@@ -1,0 +1,33 @@
+[
+   {
+      "id": "a48633e5-d27f-4ae0-bab4-0ef34fbb4e1a",
+      "nombre": "Angel Arraiz",
+      "edad": "19",
+      "sexo": "Masculino",
+      "telefono": "04160897875",
+      "direccion": "Valera"
+   },
+   {
+      "id": "15fae41e-e5b9-4544-beeb-83b29dbf8f99",
+      "edad": "32",
+      "sexo": "Masculino",
+      "telefono": "04268973284",
+      "direccion": "Betijoque"
+   },
+   {
+      "id": "a3824290-bcb3-46b9-94cd-8a170984cc0c",
+      "nombre": "Juan Perez",
+      "edad": "32",
+      "sexo": "Masculino",
+      "telefono": "04268973284",
+      "direccion": "Betijoque"
+   },
+   {
+      "id": "083c40b1-da4d-4a36-a65b-89edbb823795",
+      "nombre": "Cristian Perez",
+      "edad": "30",
+      "sexo": "Masculino",
+      "telefono": "041482732768",
+      "direccion": "Valera av. 6 con calle 11"
+   }
+]

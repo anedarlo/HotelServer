@@ -1,0 +1,23 @@
+{
+   "habitacionParaUno": [
+      {
+         "id": "a48633e5-d27f-4ae0-bab4-0ef34fbb4e1a"
+      }
+   ],
+   "habitacionParaDos": [
+      {
+         "id": "15fae41e-e5b9-4544-beeb-83b29dbf8f99"
+      },
+      {
+         "id": "a3824290-bcb3-46b9-94cd-8a170984cc0c"
+      }
+   ],
+   "habitacionParaCuatro": [
+      {
+         "id": "083c40b1-da4d-4a36-a65b-89edbb823795"
+      },
+      {
+         "id": "a3824290-bcb3-46b9-94cd-8a170984cc0c"
+      }
+   ]
+}
